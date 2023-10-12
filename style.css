@@ -1,0 +1,19 @@
+div{
+    width: 100px;
+    height:100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+#d1{
+   background-color:brown ;
+}
+#d2{
+    background-color: blue;
+    /* display: none; */
+    /* visibility: hidden; */
+}
+#d3{
+    background-color: chartreuse;
+    
+}
